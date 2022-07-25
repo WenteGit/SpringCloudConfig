@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="905d992b-38c7-42a3-8761-8a57b7f2f9c4" name="Changes" comment="" />
+    <list default="true" id="905d992b-38c7-42a3-8761-8a57b7f2f9c4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/config-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-prod.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +29,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Differentprojects\SpringCloudConfig" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -37,7 +44,7 @@
       <updated>1658758735142</updated>
       <workItem from="1658758736405" duration="826000" />
       <workItem from="1658759575166" duration="326000" />
-      <workItem from="1658759909792" duration="1350000" />
+      <workItem from="1658759909792" duration="1678000" />
     </task>
     <servers />
   </component>
